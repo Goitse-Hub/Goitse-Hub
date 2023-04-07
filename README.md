@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=goitse-hub)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=goitse-hub)](https://github.com/goitse-hub/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goitse-hub)](https://github.com/anuraghazra/github-readme-stats)
 
