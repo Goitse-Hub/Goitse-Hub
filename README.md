@@ -1,5 +1,9 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
+- 🔭 I’m currently working on a private org project
+- 🌱 I’m currently learning React & Spring Boot
+- 👯 I’m looking to collaborate on any project
+- 📫 How to reach me: Discord: goitse_hub
 
 ## Stats
 
@@ -7,25 +11,11 @@
 
 ![Goitse's GitHub stats](https://github-readme-stats.vercel.app/api?username=goitse-hub&hide=contribs,issues)
 
-![Stats](https://github-readme-stats.vercel.app/api/goitse-hub?username=goitse-hub) (https://github.com/goitse-hub/github-readme-stats)
-
 <!--
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goitse-hub)](https://github.com/anuraghazra/github-readme-stats)
  -->
 <!-- -->
-**Goitse-Hub/Goitse-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on a private org project
-- 🌱 I’m currently learning React & Spring Boot
-- 👯 I’m looking to collaborate on any project
-- 📫 How to reach me: Discord: goitse_hub
-
-
-
 
 ## Tools 
 
