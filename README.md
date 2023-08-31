@@ -7,7 +7,7 @@
 
 ![Goitse's GitHub stats](https://github-readme-stats.vercel.app/api?username=goitse-hub&hide=contribs,issues)
 
- [![Stats](https://github-readme-stats.vercel.app/api/goitse-hub?username=goitse-hub)](https://github.com/goitse-hub/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api/goitse-hub?username=goitse-hub) (https://github.com/goitse-hub/github-readme-stats)
 
 <!--
 ## Languages
