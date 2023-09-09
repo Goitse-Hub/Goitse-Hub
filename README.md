@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-- 🔭 I’m currently working on a private org project
+- 🔭 I’m currently working on NetFund
 - 🌱 I’m currently learning React & Spring Boot
 - 👯 I’m looking to collaborate on any project
 - 📫 How to reach me: Discord: goitse_hub
