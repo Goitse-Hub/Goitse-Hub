@@ -2,12 +2,6 @@
 
 - 📫 How to reach me: Discord: goitse_hub
 
-## Stats
-
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=goitse-hub)
-
-![Goitse's GitHub stats](https://github-readme-stats.vercel.app/api?username=goitse-hub&hide=contribs,issues)
-
 <!--
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goitse-hub)](https://github.com/anuraghazra/github-readme-stats)
